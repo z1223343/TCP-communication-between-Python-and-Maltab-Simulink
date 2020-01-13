@@ -15,7 +15,7 @@ In detail, our team developed a multi-vehicle control simulator called RoadRunne
 Since the communication accuracy is critical in my case introduced above, TCP communication structure is demonstrated here in this example. But UDP will also work if you want.
 
 
-## Solutions
+## Solutions:
 
 Obviously, there are two solutions for the communication:
   * Set TCP server in Maltab, and set TCP client in Python.
@@ -37,13 +37,13 @@ I have built the communication in both ways successfully. Here in this example, 
 
 The codes are well commented to explain every steps. 
 
-## Instruction to Run
+## Instruction to Run:
 
 1. Make sure you have `python3` and `MATLAB / Simulink` installed 
 2. To start the communication system, first run the MATLAB codes, and then run the python client.
 3. If everything goes well, you will get something like `result.jpg`.
 
-## Reference Materials
+## Reference Materials:
 
 1. Python officical document.
 2. Matlab tcpip() function document.
