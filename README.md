@@ -1,7 +1,7 @@
 [image1]: ./roadrunner_carla.png
 
-# UDP/TCP communication bewteen Python and Matlab/Simulink
-**This repository is to give an example and instructions for TCP/UDP communication between Python and Matlab/Simulink**
+# TCP communication bewteen Python and Matlab/Simulink
+**This repository is to give an example and instruction for TCP communication between Python and Matlab&Simulink**
 
 ## Why Did I Do This
 
